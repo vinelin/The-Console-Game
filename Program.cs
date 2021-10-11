@@ -960,11 +960,11 @@ namespace Game
             Console.SetBufferSize(9000,500);
             Console.SetWindowSize(200,50);
             //开场动画 以及引入的部分 intro
-            //PlayVideo(50);
-            //Thread.Sleep(500);
-           //Console.WriteLine(death);
-            //Thread.Sleep(2000);
-            //Console.Clear();
+            PlayVideo(50);
+            Thread.Sleep(500);
+           Console.WriteLine(death);
+            Thread.Sleep(2000);
+            Console.Clear();
 
             //开局初始化地图
             Console.CursorVisible = false;
