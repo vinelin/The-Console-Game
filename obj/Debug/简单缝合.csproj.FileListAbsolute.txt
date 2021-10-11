@@ -1,0 +1,14 @@
+E:\简单缝合修复版\简单缝合\bin\Debug\简单缝合.exe.config
+E:\简单缝合修复版\简单缝合\bin\Debug\简单缝合.exe
+E:\简单缝合修复版\简单缝合\bin\Debug\简单缝合.pdb
+E:\简单缝合修复版\简单缝合\obj\Debug\简单缝合.csprojAssemblyReference.cache
+E:\简单缝合修复版\简单缝合\obj\Debug\简单缝合.csproj.CoreCompileInputs.cache
+E:\简单缝合修复版\简单缝合\obj\Debug\简单缝合.exe
+E:\简单缝合修复版\简单缝合\obj\Debug\简单缝合.pdb
+D:\trunk_18\students\linqingdong\控制台游戏\简单缝合\bin\Debug\简单缝合.exe.config
+D:\trunk_18\students\linqingdong\控制台游戏\简单缝合\bin\Debug\简单缝合.exe
+D:\trunk_18\students\linqingdong\控制台游戏\简单缝合\bin\Debug\简单缝合.pdb
+D:\trunk_18\students\linqingdong\控制台游戏\简单缝合\obj\Debug\简单缝合.csprojAssemblyReference.cache
+D:\trunk_18\students\linqingdong\控制台游戏\简单缝合\obj\Debug\简单缝合.csproj.CoreCompileInputs.cache
+D:\trunk_18\students\linqingdong\控制台游戏\简单缝合\obj\Debug\简单缝合.exe
+D:\trunk_18\students\linqingdong\控制台游戏\简单缝合\obj\Debug\简单缝合.pdb
